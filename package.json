@@ -1,0 +1,21 @@
+{
+   "name": "JSONparse",
+   "version": "1.0.0",
+   "description": "",
+   "main": "js/main.js",
+   "scripts": {
+      "build": "webpack -p",
+      "watch": "webpack --watch"
+   },
+   "author": "Rozovyk Roksolana",
+   "license": "ISC",
+   "devDependencies": {
+      "jshint": "^2.10.2",
+      "jshint-loader": "^0.8.4",
+      "webpack": "^4.35.0",
+      "webpack-cli": "^3.3.5"
+   },
+   "dependencies": {
+      "jquery": "^3.4.1"
+   }
+}
