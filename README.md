@@ -18,3 +18,4 @@ In Console of your browser's Developers tools you will see the results of tool's
 2) Object after removing dublicates
 3) Filtered not flatted object by isActive property
 3) Filtered flatted object by isActive property
+
