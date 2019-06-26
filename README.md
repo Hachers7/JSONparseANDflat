@@ -1,4 +1,4 @@
-Download rep in rar format
+Download rep in zip format and unarchive it pn your PC
 
 To run this this tool you need to use Webstorm command line or GitBash
 
