@@ -1,3 +1,5 @@
+Download rep in rar format
+
 To run this this tool you need to use Webstorm command line or GitBash
 
 command to install node modules: <b>npm init</b>
