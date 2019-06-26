@@ -2,7 +2,9 @@ Download rep in zip format and unarchive it pn your PC
 
 To run this this tool you need to use Webstorm command line or GitBash
 
-command to install node modules: <b>npm init</b>
+Make sure you have node.js and npm on your PC
+
+command to install node modules: <b>npm instal</b>
 
 command to build the project: <b>npm run build</b>
 
