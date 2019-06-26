@@ -1,6 +1,6 @@
-Download rep in zip format and unarchive it pn your PC
+Download rep in zip format and unarchive it on your PC
 
-To run this this tool you need to use Webstorm command line or GitBash
+To run this this tool you need to use Webstorm command line or GitBash. Open Webstorm or GitBash inside the project
 
 Make sure you have node.js and npm on your PC
 
