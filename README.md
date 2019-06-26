@@ -19,3 +19,11 @@ In Console of your browser's Developers tools you will see the results of tool's
 3) Filtered not flatted object by isActive property
 3) Filtered flatted object by isActive property
 
+Refresh page is you see something like this in Console: 
+Array(5136)
+bundle.js:1 Array(5136)
+bundle.js:1 Object
+bundle.js:1 Object
+Possible it is a problem in node server
+
+In Console you should see a closed objects. You can open them and see the result.
